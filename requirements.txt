@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+colorama
+joblib
+scikit-learn
+pandas
